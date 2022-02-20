@@ -3,11 +3,6 @@ from ElectricMeter import ElectricMeter
 
 T = ElectricMeter()
 
-
-
-
-
-
 T.addT1("20.02.2022", "0025")
 T.addT1("20.03.2022", "0046")
 
