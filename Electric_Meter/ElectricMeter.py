@@ -1,6 +1,6 @@
 class ElectricMeter:
     T1 = {}  # daily indicators
-    T2 = {}  # night indicators
+    T2 = {}  # night indicatorsпаиапиапиапи
 
     def addT1(self, date, value):
         self.T1[date] = value
